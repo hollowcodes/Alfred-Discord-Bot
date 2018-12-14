@@ -1,4 +1,4 @@
 # Alfred-Discord-Bot
 This licensed repository contains the whole code of the Discord bot ```Alfred```
 
-made with the Java Developer Api, 2018
+_made with the Java Developer Api, 2018_
